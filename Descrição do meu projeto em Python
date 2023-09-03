@@ -1,0 +1,6 @@
+Aqui irei deixar a descrição sobre o meu primeiro projeto em Python.
+Bom a ideia desse projeto é simular uma IA de investimentos de um banco, a partir dai
+temos as conversas básicas padrôes até chegar a area de investimentos, onde tem multiplas
+escolhas, cada uma com suas simulações de resultados, até o cliente confirmar o investimento
+Usei estruturas de repitoções,looping pra não deixar o progama encerrar até que o usuário queira.
+O programa é simples e bem intuitivo.
